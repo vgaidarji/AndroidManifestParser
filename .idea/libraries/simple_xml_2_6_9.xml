@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="simple-xml-2.6.9">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/ManifestParser/libs/simple-xml-2.6.9.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
